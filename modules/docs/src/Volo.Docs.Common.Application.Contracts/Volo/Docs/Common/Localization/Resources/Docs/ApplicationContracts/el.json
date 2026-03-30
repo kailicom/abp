@@ -1,7 +1,0 @@
-{
-  "culture": "el",
-  "texts": {
-    "Permission:DocumentManagement.Common": "Διαχείριση Εγγράφων",
-    "Permission:PdfDownload": "Λήψη PDF"
-  }
-}

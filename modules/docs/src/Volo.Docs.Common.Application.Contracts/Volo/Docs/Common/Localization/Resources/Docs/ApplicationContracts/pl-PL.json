@@ -1,7 +1,0 @@
-{
-  "culture": "pl-PL",
-  "texts": {
-    "Permission:DocumentManagement.Common": "Zarządzanie dokumentami",
-    "Permission:PdfDownload": "Pobieranie PDF"
-  }
-}

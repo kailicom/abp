@@ -1,7 +1,0 @@
-{
-  "culture": "nl",
-  "texts": {
-    "Permission:DocumentManagement.Common": "Algemene documentbeheer",
-    "Permission:PdfDownload": "PDF downloaden"
-  }
-}

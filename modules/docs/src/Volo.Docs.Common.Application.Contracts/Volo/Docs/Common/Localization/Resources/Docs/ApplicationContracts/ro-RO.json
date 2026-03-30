@@ -1,7 +1,0 @@
-{
-  "culture": "ro-RO",
-  "texts": {
-    "Permission:DocumentManagement.Common": "Gestionarea documentelor comune",
-    "Permission:PdfDownload": "Descărcare PDF"
-  }
-}

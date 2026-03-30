@@ -1,8 +1,0 @@
-{
-  "modules": {
-    "Volo.CmsKit": {
-      "path": "Volo.CmsKit.abpmdl"
-    }
-  },
-  "id": "aa47056c-6303-419e-bd08-cfcf1dc93ca0"
-}

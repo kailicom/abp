@@ -1,7 +1,0 @@
-{
-  "culture": "cs",
-  "texts": {
-    "Permission:DocumentManagement.Common": "Správa dokumentů",
-    "Permission:PdfDownload": "Stahování PDF"
-  }
-}

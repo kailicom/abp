@@ -1,7 +1,0 @@
-{
-  "culture": "sv",
-  "texts": {
-    "Permission:DocumentManagement.Common": "Dokumenthantering",
-    "Permission:PdfDownload": "PDF-generering"
-  }
-}
