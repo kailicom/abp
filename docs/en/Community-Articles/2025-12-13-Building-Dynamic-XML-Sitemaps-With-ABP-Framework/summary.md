@@ -1,1 +1,0 @@
-Learn how to use the ABP Sitemap module for automatic XML sitemap generation in your ABP Framework applications.
