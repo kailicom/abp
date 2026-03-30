@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="AbpPerfTest.WithAbp/AbpPerfTest.WithAbp.csproj" />
-  <Project Path="AbpPerfTest.WithoutAbp/AbpPerfTest.WithoutAbp.csproj" />
-</Solution>
